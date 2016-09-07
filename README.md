@@ -13,4 +13,5 @@ https://software.intel.com/en-us/intel-heart-rate-sdk/documentation
 
 Android Fitness Sensor Service: https://developers.google.com/android/reference/com/google/android/gms/fitness/service/FitnessSensorService
 
+https://developers.google.com/fit/android/new-sensors
 
