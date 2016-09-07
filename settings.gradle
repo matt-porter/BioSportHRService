@@ -1,0 +1,1 @@
+include ':app', ':core-sdk-lib-release'
